@@ -76,7 +76,7 @@ The project follows a modular and scalable folder structure to keep the code org
 |-- /utils              # Helper functions and constants
 |-- App.jsx             # Main application component and layout orchestrator
 |-- main.jsx            # Application entry point
-`-- index.css           # Global styles and Tailwind CSS directives
+|-- index.css           # Global styles and Tailwind CSS directives
 ```
 
 📄 License
