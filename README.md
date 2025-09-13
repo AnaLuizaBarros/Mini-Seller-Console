@@ -2,9 +2,6 @@
 
 A modern, responsive, and feature-rich lead management application built from the ground up with React, Tailwind CSS, and modern development best practices. This project serves as a powerful boilerplate for data-driven dashboard applications.
 
-![React Lead Management Dashboard Screenshot](https://i.imgur.com/gK09h6E.png)
-*(**Note:** You can replace the link above with a screenshot of your own running application!)*
-
 ---
 
 ## ✨ Features
@@ -63,12 +60,13 @@ Once the dependencies are installed, you can run the local development server:
 
 ```sh
 npm run dev
-
+```
 Open http://localhost:5173 (or the port specified in your terminal) to view it in the browser. The app will automatically reload if you make changes to the code.
 
 📁 Folder Structure
 The project follows a modular and scalable folder structure to keep the code organized and maintainable.
 
+```sh
 /src
 |-- /assets
 |-- /components         # Reusable UI components (Tables, Panels, Modals, etc.)
@@ -78,7 +76,8 @@ The project follows a modular and scalable folder structure to keep the code org
 |-- /utils              # Helper functions and constants
 |-- App.jsx             # Main application component and layout orchestrator
 |-- main.jsx            # Application entry point
-`-- index.css           # Global styles and Tailwind CSS directives
+|-- index.css           # Global styles and Tailwind CSS directives
+```
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
