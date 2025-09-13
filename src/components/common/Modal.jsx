@@ -5,7 +5,6 @@ const Modal = ({ isOpen, onClose, children }) => {
   return (
     <Transition appear show={isOpen} as={Fragment}>
       <Dialog as="div" className="relative z-50" onClose={onClose}>
-        {/* Overlay */}
         <Transition.Child
           as={Fragment}
           enter="ease-out duration-300"
