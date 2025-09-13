@@ -2,9 +2,6 @@
 
 A modern, responsive, and feature-rich lead management application built from the ground up with React, Tailwind CSS, and modern development best practices. This project serves as a powerful boilerplate for data-driven dashboard applications.
 
-![React Lead Management Dashboard Screenshot](https://i.imgur.com/gK09h6E.png)
-*(**Note:** You can replace the link above with a screenshot of your own running application!)*
-
 ---
 
 ## ✨ Features
@@ -63,7 +60,7 @@ Once the dependencies are installed, you can run the local development server:
 
 ```sh
 npm run dev
-
+```
 Open http://localhost:5173 (or the port specified in your terminal) to view it in the browser. The app will automatically reload if you make changes to the code.
 
 📁 Folder Structure
