@@ -1,0 +1,904 @@
+{
+  "leads": [
+    {
+      "id": 1,
+      "name": "Ana Silva",
+      "company": "TechCorp",
+      "email": "ana.silva@techcorp.com",
+      "source": "Website",
+      "score": 85,
+      "status": "New"
+    },
+    {
+      "id": 2,
+      "name": "Carlos Santos",
+      "company": "DataSolutions",
+      "email": "carlos.santos@datasolutions.com",
+      "source": "LinkedIn",
+      "score": 92,
+      "status": "Contacted"
+    },
+    {
+      "id": 3,
+      "name": "Maria Oliveira",
+      "company": "CloudWorks",
+      "email": "maria.oliveira@cloudworks.com",
+      "source": "Email Campaign",
+      "score": 78,
+      "status": "Qualified"
+    },
+    {
+      "id": 4,
+      "name": "João Souza",
+      "company": "InnovateCo",
+      "email": "joao.souza@innovateco.com",
+      "source": "Referral",
+      "score": 67,
+      "status": "New"
+    },
+    {
+      "id": 5,
+      "name": "Fernanda Pereira",
+      "company": "DigitalFlow",
+      "email": "fernanda.pereira@digitalflow.com",
+      "source": "Cold Call",
+      "score": 89,
+      "status": "Proposal"
+    },
+    {
+      "id": 6,
+      "name": "Pedro Lima",
+      "company": "SmartSys",
+      "email": "pedro.lima@smartsys.com",
+      "source": "Trade Show",
+      "score": 45,
+      "status": "Contacted"
+    },
+    {
+      "id": 7,
+      "name": "Julia Costa",
+      "company": "NextGen",
+      "email": "julia.costa@nextgen.com",
+      "source": "Website",
+      "score": 73,
+      "status": "Qualified"
+    },
+    {
+      "id": 8,
+      "name": "Lucas Almeida",
+      "company": "ProTech",
+      "email": "lucas.almeida@protech.com",
+      "source": "LinkedIn",
+      "score": 56,
+      "status": "New"
+    },
+    {
+      "id": 9,
+      "name": "Camila Ferreira",
+      "company": "WebDynamics",
+      "email": "camila.ferreira@webdynamics.com",
+      "source": "Email Campaign",
+      "score": 81,
+      "status": "Contacted"
+    },
+    {
+      "id": 10,
+      "name": "Rafael Rodrigues",
+      "company": "CodeCraft",
+      "email": "rafael.rodrigues@codecraft.com",
+      "source": "Referral",
+      "score": 94,
+      "status": "Qualified"
+    },
+    {
+      "id": 11,
+      "name": "Beatriz Martins",
+      "company": "TechCorp",
+      "email": "beatriz.martins@techcorp.com",
+      "source": "Cold Call",
+      "score": 63,
+      "status": "New"
+    },
+    {
+      "id": 12,
+      "name": "Diego Barbosa",
+      "company": "DataSolutions",
+      "email": "diego.barbosa@datasolutions.com",
+      "source": "Trade Show",
+      "score": 77,
+      "status": "Proposal"
+    },
+    {
+      "id": 13,
+      "name": "Larissa Gomes",
+      "company": "CloudWorks",
+      "email": "larissa.gomes@cloudworks.com",
+      "source": "Website",
+      "score": 88,
+      "status": "Contacted"
+    },
+    {
+      "id": 14,
+      "name": "Bruno Dias",
+      "company": "InnovateCo",
+      "email": "bruno.dias@innovateco.com",
+      "source": "LinkedIn",
+      "score": 52,
+      "status": "Closed-Lost"
+    },
+    {
+      "id": 15,
+      "name": "Patricia Ramos",
+      "company": "DigitalFlow",
+      "email": "patricia.ramos@digitalflow.com",
+      "source": "Email Campaign",
+      "score": 91,
+      "status": "Qualified"
+    },
+    {
+      "id": 16,
+      "name": "Thiago Carvalho",
+      "company": "SmartSys",
+      "email": "thiago.carvalho@smartsys.com",
+      "source": "Referral",
+      "score": 69,
+      "status": "New"
+    },
+    {
+      "id": 17,
+      "name": "Amanda Ribeiro",
+      "company": "NextGen",
+      "email": "amanda.ribeiro@nextgen.com",
+      "source": "Cold Call",
+      "score": 76,
+      "status": "Contacted"
+    },
+    {
+      "id": 18,
+      "name": "Rodrigo Teixeira",
+      "company": "ProTech",
+      "email": "rodrigo.teixeira@protech.com",
+      "source": "Trade Show",
+      "score": 84,
+      "status": "Proposal"
+    },
+    {
+      "id": 19,
+      "name": "Isabela Mendes",
+      "company": "WebDynamics",
+      "email": "isabela.mendes@webdynamics.com",
+      "source": "Website",
+      "score": 58,
+      "status": "New"
+    },
+    {
+      "id": 20,
+      "name": "Gustavo Moreira",
+      "company": "CodeCraft",
+      "email": "gustavo.moreira@codecraft.com",
+      "source": "LinkedIn",
+      "score": 95,
+      "status": "Qualified"
+    },
+    {
+      "id": 21,
+      "name": "Natália Cardoso",
+      "company": "TechCorp",
+      "email": "natalia.cardoso@techcorp.com",
+      "source": "Email Campaign",
+      "score": 71,
+      "status": "Contacted"
+    },
+    {
+      "id": 22,
+      "name": "Felipe Cunha",
+      "company": "DataSolutions",
+      "email": "felipe.cunha@datasolutions.com",
+      "source": "Referral",
+      "score": 83,
+      "status": "New"
+    },
+    {
+      "id": 23,
+      "name": "Vanessa Pinto",
+      "company": "CloudWorks",
+      "email": "vanessa.pinto@cloudworks.com",
+      "source": "Cold Call",
+      "score": 47,
+      "status": "Closed-Lost"
+    },
+    {
+      "id": 24,
+      "name": "Leonardo Monteiro",
+      "company": "InnovateCo",
+      "email": "leonardo.monteiro@innovateco.com",
+      "source": "Trade Show",
+      "score": 79,
+      "status": "Proposal"
+    },
+    {
+      "id": 25,
+      "name": "Renata Araújo",
+      "company": "DigitalFlow",
+      "email": "renata.araujo@digitalflow.com",
+      "source": "Website",
+      "score": 86,
+      "status": "Qualified"
+    },
+    {
+      "id": 26,
+      "name": "Marcelo Freitas",
+      "company": "SmartSys",
+      "email": "marcelo.freitas@smartsys.com",
+      "source": "LinkedIn",
+      "score": 61,
+      "status": "New"
+    },
+    {
+      "id": 27,
+      "name": "Carolina Lopes",
+      "company": "NextGen",
+      "email": "carolina.lopes@nextgen.com",
+      "source": "Email Campaign",
+      "score": 74,
+      "status": "Contacted"
+    },
+    {
+      "id": 28,
+      "name": "André Nascimento",
+      "company": "ProTech",
+      "email": "andre.nascimento@protech.com",
+      "source": "Referral",
+      "score": 90,
+      "status": "Qualified"
+    },
+    {
+      "id": 29,
+      "name": "Juliana Castro",
+      "company": "WebDynamics",
+      "email": "juliana.castro@webdynamics.com",
+      "source": "Cold Call",
+      "score": 55,
+      "status": "New"
+    },
+    {
+      "id": 30,
+      "name": "Ricardo Sousa",
+      "company": "CodeCraft",
+      "email": "ricardo.sousa@codecraft.com",
+      "source": "Trade Show",
+      "score": 87,
+      "status": "Proposal"
+    },
+    {
+      "id": 31,
+      "name": "Gabriela Melo",
+      "company": "TechCorp",
+      "email": "gabriela.melo@techcorp.com",
+      "source": "Website",
+      "score": 68,
+      "status": "Contacted"
+    },
+    {
+      "id": 32,
+      "name": "Vinícius Azevedo",
+      "company": "DataSolutions",
+      "email": "vinicius.azevedo@datasolutions.com",
+      "source": "LinkedIn",
+      "score": 82,
+      "status": "New"
+    },
+    {
+      "id": 33,
+      "name": "Priscila Neves",
+      "company": "CloudWorks",
+      "email": "priscila.neves@cloudworks.com",
+      "source": "Email Campaign",
+      "score": 93,
+      "status": "Qualified"
+    },
+    {
+      "id": 34,
+      "name": "Henrique Campos",
+      "company": "InnovateCo",
+      "email": "henrique.campos@innovateco.com",
+      "source": "Referral",
+      "score": 49,
+      "status": "Closed-Lost"
+    },
+    {
+      "id": 35,
+      "name": "Sabrina Correia",
+      "company": "DigitalFlow",
+      "email": "sabrina.correia@digitalflow.com",
+      "source": "Cold Call",
+      "score": 75,
+      "status": "Contacted"
+    },
+    {
+      "id": 36,
+      "name": "Fábio Rocha",
+      "company": "SmartSys",
+      "email": "fabio.rocha@smartsys.com",
+      "source": "Trade Show",
+      "score": 80,
+      "status": "Proposal"
+    },
+    {
+      "id": 37,
+      "name": "Daniela Santana",
+      "company": "NextGen",
+      "email": "daniela.santana@nextgen.com",
+      "source": "Website",
+      "score": 64,
+      "status": "New"
+    },
+    {
+      "id": 38,
+      "name": "Roberto Xavier",
+      "company": "ProTech",
+      "email": "roberto.xavier@protech.com",
+      "source": "LinkedIn",
+      "score": 88,
+      "status": "Qualified"
+    },
+    {
+      "id": 39,
+      "name": "Tatiane Vieira",
+      "company": "WebDynamics",
+      "email": "tatiane.vieira@webdynamics.com",
+      "source": "Email Campaign",
+      "score": 57,
+      "status": "New"
+    },
+    {
+      "id": 40,
+      "name": "Márcio Fonseca",
+      "company": "CodeCraft",
+      "email": "marcio.fonseca@codecraft.com",
+      "source": "Referral",
+      "score": 96,
+      "status": "Qualified"
+    },
+    {
+      "id": 41,
+      "name": "Letícia Macedo",
+      "company": "TechCorp",
+      "email": "leticia.macedo@techcorp.com",
+      "source": "Cold Call",
+      "score": 72,
+      "status": "Contacted"
+    },
+    {
+      "id": 42,
+      "name": "Alexandre Duarte",
+      "company": "DataSolutions",
+      "email": "alexandre.duarte@datasolutions.com",
+      "source": "Trade Show",
+      "score": 65,
+      "status": "New"
+    },
+    {
+      "id": 43,
+      "name": "Simone Rezende",
+      "company": "CloudWorks",
+      "email": "simone.rezende@cloudworks.com",
+      "source": "Website",
+      "score": 89,
+      "status": "Proposal"
+    },
+    {
+      "id": 44,
+      "name": "Paulo Moura",
+      "company": "InnovateCo",
+      "email": "paulo.moura@innovateco.com",
+      "source": "LinkedIn",
+      "score": 53,
+      "status": "Contacted"
+    },
+    {
+      "id": 45,
+      "name": "Michele Torres",
+      "company": "DigitalFlow",
+      "email": "michele.torres@digitalflow.com",
+      "source": "Email Campaign",
+      "score": 91,
+      "status": "Qualified"
+    },
+    {
+      "id": 46,
+      "name": "Eduardo Silva",
+      "company": "SmartSys",
+      "email": "eduardo.silva@smartsys.com",
+      "source": "Referral",
+      "score": 78,
+      "status": "New"
+    },
+    {
+      "id": 47,
+      "name": "Aline Borges",
+      "company": "NextGen",
+      "email": "aline.borges@nextgen.com",
+      "source": "Cold Call",
+      "score": 66,
+      "status": "Contacted"
+    },
+    {
+      "id": 48,
+      "name": "Sérgio Pacheco",
+      "company": "ProTech",
+      "email": "sergio.pacheco@protech.com",
+      "source": "Trade Show",
+      "score": 84,
+      "status": "Proposal"
+    },
+    {
+      "id": 49,
+      "name": "Karina Coelho",
+      "company": "WebDynamics",
+      "email": "karina.coelho@webdynamics.com",
+      "source": "Website",
+      "score": 59,
+      "status": "New"
+    },
+    {
+      "id": 50,
+      "name": "Cláudio Ferraz",
+      "company": "CodeCraft",
+      "email": "claudio.ferraz@codecraft.com",
+      "source": "LinkedIn",
+      "score": 97,
+      "status": "Qualified"
+    },
+    {
+      "id": 51,
+      "name": "Mônica Pereira",
+      "company": "TechCorp",
+      "email": "monica.pereira@techcorp.com",
+      "source": "Website",
+      "score": 73,
+      "status": "New"
+    },
+    {
+      "id": 52,
+      "name": "Rogério Silva",
+      "company": "DataSolutions",
+      "email": "rogerio.silva@datasolutions.com",
+      "source": "Cold Call",
+      "score": 81,
+      "status": "Contacted"
+    },
+    {
+      "id": 53,
+      "name": "Cristina Lima",
+      "company": "CloudWorks",
+      "email": "cristina.lima@cloudworks.com",
+      "source": "Trade Show",
+      "score": 65,
+      "status": "Qualified"
+    },
+    {
+      "id": 54,
+      "name": "Wagner Costa",
+      "company": "InnovateCo",
+      "email": "wagner.costa@innovateco.com",
+      "source": "Email Campaign",
+      "score": 88,
+      "status": "Proposal"
+    },
+    {
+      "id": 55,
+      "name": "Eliane Santos",
+      "company": "DigitalFlow",
+      "email": "eliane.santos@digitalflow.com",
+      "source": "LinkedIn",
+      "score": 54,
+      "status": "New"
+    },
+    {
+      "id": 56,
+      "name": "Flávio Rodrigues",
+      "company": "SmartSys",
+      "email": "flavio.rodrigues@smartsys.com",
+      "source": "Referral",
+      "score": 92,
+      "status": "Qualified"
+    },
+    {
+      "id": 57,
+      "name": "Valéria Almeida",
+      "company": "NextGen",
+      "email": "valeria.almeida@nextgen.com",
+      "source": "Website",
+      "score": 67,
+      "status": "Contacted"
+    },
+    {
+      "id": 58,
+      "name": "Antônio Ferreira",
+      "company": "ProTech",
+      "email": "antonio.ferreira@protech.com",
+      "source": "Cold Call",
+      "score": 76,
+      "status": "New"
+    },
+    {
+      "id": 59,
+      "name": "Luciana Martins",
+      "company": "WebDynamics",
+      "email": "luciana.martins@webdynamics.com",
+      "source": "Trade Show",
+      "score": 83,
+      "status": "Proposal"
+    },
+    {
+      "id": 60,
+      "name": "Gilberto Barbosa",
+      "company": "CodeCraft",
+      "email": "gilberto.barbosa@codecraft.com",
+      "source": "Email Campaign",
+      "score": 48,
+      "status": "Closed-Lost"
+    },
+    {
+      "id": 61,
+      "name": "Marisa Gomes",
+      "company": "TechCorp",
+      "email": "marisa.gomes@techcorp.com",
+      "source": "LinkedIn",
+      "score": 94,
+      "status": "Qualified"
+    },
+    {
+      "id": 62,
+      "name": "José Dias",
+      "company": "DataSolutions",
+      "email": "jose.dias@datasolutions.com",
+      "source": "Referral",
+      "score": 71,
+      "status": "Contacted"
+    },
+    {
+      "id": 63,
+      "name": "Sandra Ramos",
+      "company": "CloudWorks",
+      "email": "sandra.ramos@cloudworks.com",
+      "source": "Website",
+      "score": 85,
+      "status": "New"
+    },
+    {
+      "id": 64,
+      "name": "Marcos Carvalho",
+      "company": "InnovateCo",
+      "email": "marcos.carvalho@innovateco.com",
+      "source": "Cold Call",
+      "score": 62,
+      "status": "Contacted"
+    },
+    {
+      "id": 65,
+      "name": "Rosana Ribeiro",
+      "company": "DigitalFlow",
+      "email": "rosana.ribeiro@digitalflow.com",
+      "source": "Trade Show",
+      "score": 79,
+      "status": "Proposal"
+    },
+    {
+      "id": 66,
+      "name": "Luiz Teixeira",
+      "company": "SmartSys",
+      "email": "luiz.teixeira@smartsys.com",
+      "source": "Email Campaign",
+      "score": 56,
+      "status": "New"
+    },
+    {
+      "id": 67,
+      "name": "Cláudia Mendes",
+      "company": "NextGen",
+      "email": "claudia.mendes@nextgen.com",
+      "source": "LinkedIn",
+      "score": 87,
+      "status": "Qualified"
+    },
+    {
+      "id": 68,
+      "name": "Nelson Moreira",
+      "company": "ProTech",
+      "email": "nelson.moreira@protech.com",
+      "source": "Referral",
+      "score": 74,
+      "status": "Contacted"
+    },
+    {
+      "id": 69,
+      "name": "Silvia Cardoso",
+      "company": "WebDynamics",
+      "email": "silvia.cardoso@webdynamics.com",
+      "source": "Website",
+      "score": 91,
+      "status": "Qualified"
+    },
+    {
+      "id": 70,
+      "name": "Francisco Cunha",
+      "company": "CodeCraft",
+      "email": "francisco.cunha@codecraft.com",
+      "source": "Cold Call",
+      "score": 68,
+      "status": "New"
+    },
+    {
+      "id": 71,
+      "name": "Angela Pinto",
+      "company": "TechCorp",
+      "email": "angela.pinto@techcorp.com",
+      "source": "Trade Show",
+      "score": 82,
+      "status": "Proposal"
+    },
+    {
+      "id": 72,
+      "name": "Edson Monteiro",
+      "company": "DataSolutions",
+      "email": "edson.monteiro@datasolutions.com",
+      "source": "Email Campaign",
+      "score": 59,
+      "status": "Contacted"
+    },
+    {
+      "id": 73,
+      "name": "Vera Araújo",
+      "company": "CloudWorks",
+      "email": "vera.araujo@cloudworks.com",
+      "source": "LinkedIn",
+      "score": 96,
+      "status": "Qualified"
+    },
+    {
+      "id": 74,
+      "name": "Adilson Freitas",
+      "company": "InnovateCo",
+      "email": "adilson.freitas@innovateco.com",
+      "source": "Referral",
+      "score": 43,
+      "status": "Closed-Lost"
+    },
+    {
+      "id": 75,
+      "name": "Célia Lopes",
+      "company": "DigitalFlow",
+      "email": "celia.lopes@digitalflow.com",
+      "source": "Website",
+      "score": 77,
+      "status": "New"
+    },
+    {
+      "id": 76,
+      "name": "Valdir Nascimento",
+      "company": "SmartSys",
+      "email": "valdir.nascimento@smartsys.com",
+      "source": "Cold Call",
+      "score": 89,
+      "status": "Qualified"
+    },
+    {
+      "id": 77,
+      "name": "Denise Castro",
+      "company": "NextGen",
+      "email": "denise.castro@nextgen.com",
+      "source": "Trade Show",
+      "score": 64,
+      "status": "Contacted"
+    },
+    {
+      "id": 78,
+      "name": "Rubens Sousa",
+      "company": "ProTech",
+      "email": "rubens.sousa@protech.com",
+      "source": "Email Campaign",
+      "score": 93,
+      "status": "Proposal"
+    },
+    {
+      "id": 79,
+      "name": "Marta Melo",
+      "company": "WebDynamics",
+      "email": "marta.melo@webdynamics.com",
+      "source": "LinkedIn",
+      "score": 51,
+      "status": "New"
+    },
+    {
+      "id": 80,
+      "name": "Osvaldo Azevedo",
+      "company": "CodeCraft",
+      "email": "osvaldo.azevedo@codecraft.com",
+      "source": "Referral",
+      "score": 86,
+      "status": "Qualified"
+    },
+    {
+      "id": 81,
+      "name": "Regina Neves",
+      "company": "TechCorp",
+      "email": "regina.neves@techcorp.com",
+      "source": "Website",
+      "score": 72,
+      "status": "Contacted"
+    },
+    {
+      "id": 82,
+      "name": "Geraldo Campos",
+      "company": "DataSolutions",
+      "email": "geraldo.campos@datasolutions.com",
+      "source": "Cold Call",
+      "score": 80,
+      "status": "New"
+    },
+    {
+      "id": 83,
+      "name": "Lúcia Correia",
+      "company": "CloudWorks",
+      "email": "lucia.correia@cloudworks.com",
+      "source": "Trade Show",
+      "score": 95,
+      "status": "Qualified"
+    },
+    {
+      "id": 84,
+      "name": "Milton Rocha",
+      "company": "InnovateCo",
+      "email": "milton.rocha@innovateco.com",
+      "source": "Email Campaign",
+      "score": 47,
+      "status": "Closed-Lost"
+    },
+    {
+      "id": 85,
+      "name": "Ivone Santana",
+      "company": "DigitalFlow",
+      "email": "ivone.santana@digitalflow.com",
+      "source": "LinkedIn",
+      "score": 78,
+      "status": "Contacted"
+    },
+    {
+      "id": 86,
+      "name": "Reinaldo Xavier",
+      "company": "SmartSys",
+      "email": "reinaldo.xavier@smartsys.com",
+      "source": "Referral",
+      "score": 84,
+      "status": "Proposal"
+    },
+    {
+      "id": 87,
+      "name": "Terezinha Vieira",
+      "company": "NextGen",
+      "email": "terezinha.vieira@nextgen.com",
+      "source": "Website",
+      "score": 61,
+      "status": "New"
+    },
+    {
+      "id": 88,
+      "name": "Waldir Fonseca",
+      "company": "ProTech",
+      "email": "waldir.fonseca@protech.com",
+      "source": "Cold Call",
+      "score": 88,
+      "status": "Qualified"
+    },
+    {
+      "id": 89,
+      "name": "Neide Macedo",
+      "company": "WebDynamics",
+      "email": "neide.macedo@webdynamics.com",
+      "source": "Trade Show",
+      "score": 55,
+      "status": "Contacted"
+    },
+    {
+      "id": 90,
+      "name": "Ailton Duarte",
+      "company": "CodeCraft",
+      "email": "ailton.duarte@codecraft.com",
+      "source": "Email Campaign",
+      "score": 92,
+      "status": "Qualified"
+    },
+    {
+      "id": 91,
+      "name": "Irene Rezende",
+      "company": "TechCorp",
+      "email": "irene.rezende@techcorp.com",
+      "source": "LinkedIn",
+      "score": 69,
+      "status": "New"
+    },
+    {
+      "id": 92,
+      "name": "Sebastião Moura",
+      "company": "DataSolutions",
+      "email": "sebastiao.moura@datasolutions.com",
+      "source": "Referral",
+      "score": 75,
+      "status": "Contacted"
+    },
+    {
+      "id": 93,
+      "name": "Solange Torres",
+      "company": "CloudWorks",
+      "email": "solange.torres@cloudworks.com",
+      "source": "Website",
+      "score": 87,
+      "status": "Proposal"
+    },
+    {
+      "id": 94,
+      "name": "Domingos Silva",
+      "company": "InnovateCo",
+      "email": "domingos.silva@innovateco.com",
+      "source": "Cold Call",
+      "score": 52,
+      "status": "New"
+    },
+    {
+      "id": 95,
+      "name": "Marlene Borges",
+      "company": "DigitalFlow",
+      "email": "marlene.borges@digitalflow.com",
+      "source": "Trade Show",
+      "score": 90,
+      "status": "Qualified"
+    },
+    {
+      "id": 96,
+      "name": "Benedito Pacheco",
+      "company": "SmartSys",
+      "email": "benedito.pacheco@smartsys.com",
+      "source": "Email Campaign",
+      "score": 66,
+      "status": "Contacted"
+    },
+    {
+      "id": 97,
+      "name": "Maria José Coelho",
+      "company": "NextGen",
+      "email": "mariajose.coelho@nextgen.com",
+      "source": "LinkedIn",
+      "score": 83,
+      "status": "New"
+    },
+    {
+      "id": 98,
+      "name": "João Carlos Ferraz",
+      "company": "ProTech",
+      "email": "joaocarlos.ferraz@protech.com",
+      "source": "Referral",
+      "score": 94,
+      "status": "Qualified"
+    },
+    {
+      "id": 99,
+      "name": "Ana Paula Mendonça",
+      "company": "WebDynamics",
+      "email": "anapaula.mendonca@webdynamics.com",
+      "source": "Website",
+      "score": 58,
+      "status": "Contacted"
+    },
+    {
+      "id": 100,
+      "name": "Carlos Eduardo Viana",
+      "company": "CodeCraft",
+      "email": "carloseduardo.viana@codecraft.com",
+      "source": "Cold Call",
+      "score": 98,
+      "status": "Qualified"
+    }
+  ]
+}
