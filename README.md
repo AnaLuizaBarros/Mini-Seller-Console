@@ -66,6 +66,7 @@ Open http://localhost:5173 (or the port specified in your terminal) to view it i
 📁 Folder Structure
 The project follows a modular and scalable folder structure to keep the code organized and maintainable.
 
+```sh
 /src
 |-- /assets
 |-- /components         # Reusable UI components (Tables, Panels, Modals, etc.)
@@ -76,6 +77,7 @@ The project follows a modular and scalable folder structure to keep the code org
 |-- App.jsx             # Main application component and layout orchestrator
 |-- main.jsx            # Application entry point
 `-- index.css           # Global styles and Tailwind CSS directives
+```
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
